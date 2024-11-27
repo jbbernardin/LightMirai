@@ -1,0 +1,13 @@
+torch
+torchvision
+scikit-learn
+scipy
+numpy
+Pillow
+tqdm
+mock
+scikit-image
+imageio
+gitpython
+lifelines
+ipykernel
