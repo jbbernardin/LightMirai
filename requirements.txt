@@ -12,3 +12,4 @@ gitpython
 lifelines
 ipykernel
 pandas
+torch-summary
